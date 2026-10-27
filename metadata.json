@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Readiness & Personalized Learning Platform",
+  "description": "Comprehensive career readiness and personalized learning platform featuring resume skill extraction, career gap analysis, dynamic learning roadmaps, focus mode planner, and voice encouragement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
